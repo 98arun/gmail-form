@@ -1,2 +1,2 @@
 # gmail-form
-this is a algorithm or flow of gmail sign-in/sign-up form.
+this is a algorithm and flow chart of gmail sign-in/sign-up form.
